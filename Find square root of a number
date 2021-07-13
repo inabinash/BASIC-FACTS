@@ -1,0 +1,26 @@
+//THIS WORKS FINE GIVING UPTO 5 DECIMALS
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main()
+{
+    double n=pow(2,0.5);
+    printf("%lf",n);
+    return 0;
+}
+    
+    
+    
+//THIS GIVES ONLY INTEGER VALUE
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main()
+{
+    double n=pow(2,1/2);
+    printf("%lf",n);
+    return 0;
+}
+    
