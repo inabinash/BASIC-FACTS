@@ -13,6 +13,7 @@ int main()
     
     
 //THIS GIVES ONLY INTEGER VALUE
+//HERE IS THE CODE
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
